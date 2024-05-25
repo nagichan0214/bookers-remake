@@ -8,6 +8,6 @@ class BooksController < ApplicationController
   def show
   end
 
-  def ed
+  def edit
   end
 end
